@@ -1,0 +1,9 @@
+# Dossier de la base de données ChromaDB
+data/
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+
+# Fichier de log du Feeder
+live_feed.json

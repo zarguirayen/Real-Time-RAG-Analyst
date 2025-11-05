@@ -1,0 +1,8 @@
+streamlit
+pyngrok
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+chromadb
+sentence-transformers
